@@ -1,4 +1,4 @@
-# Проект E-commerce: Анализ результатов A/B-теста - рекомендательная система.
+# Проект E-commerce: Анализ ассортимента и выявление профилей потребления.
 # Материалы
 * [Презентация](https://disk.yandex.ru/i/G-MheeENLvPjXg)
 * [Дашборд](https://public.tableau.com/views/Final_dashbord_16853151090020/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
